@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
       <Weather />
       <footer>
-        This project was coded by Jasmin Mitchell and is{" "}
+        This project was coded by <a href="http://jasmin-mitchell.com" target="_blank" rel="noreferrer">Jasmin Mitchell</a> and is{" "}
       <a href="https://github.com/jmitch411/weather-app-react" target="_blank" rel="noreferrer"> open-sourced on GitHub</a>
       </footer>
       </div>
