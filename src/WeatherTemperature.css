@@ -1,3 +1,7 @@
 a {
     text-decoration: none;
 }
+
+.WeatherTemperature .temperature {
+    margin-left: 15px;
+}
